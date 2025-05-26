@@ -100,6 +100,5 @@ val Typography = Typography(
         fontWeight = FontWeight.Normal,
         fontSize = 12.sp,
         lineHeight = 16.sp
-    ),
-    //Test a caching issue
+    )
 )
